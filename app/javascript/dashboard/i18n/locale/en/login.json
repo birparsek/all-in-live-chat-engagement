@@ -1,9 +1,9 @@
 {
   "LOGIN": {
-    "TITLE": "Login to Chatwoot",
+    "TITLE": "Login to Rixos Marketing Live Engagement",
     "EMAIL": {
       "LABEL": "Email",
-      "PLACEHOLDER": "Email eg: someone@example.com"
+      "PLACEHOLDER": "Email eg: ilker.cekic@rixos.com"
     },
     "PASSWORD": {
       "LABEL": "Password",

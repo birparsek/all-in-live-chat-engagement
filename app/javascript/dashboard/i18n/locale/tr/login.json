@@ -1,9 +1,9 @@
 {
   "LOGIN": {
-    "TITLE": "Chatwoot'ta oturum açın",
+    "TITLE": "Rixos Marketing Live Engagement'ta oturum açın",
     "EMAIL": {
       "LABEL": "E-Posta",
-      "PLACEHOLDER": "E-posta, örneğin: birisi@örnek.com"
+      "PLACEHOLDER": "E-posta, örneğin: ilker.cekic@rixos.com"
     },
     "PASSWORD": {
       "LABEL": "Parola",
