@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://s3.us-west-2.amazonaws.com/gh-assets.chatwoot.com/brand.svg" alt="Woot-logo" width="240" />
+  <img src="https://logos-download.com/wp-content/uploads/2016/11/Rixos_Hotels_logo_logotype.png" alt="Woot-logo" width="240" />
 
-  <p align="center">Customer engagement suite, an open-source alternative to Intercom, Zendesk, Salesforce Service Cloud etc.</p>
+  <p align="center">Rixos Marketing Team 2022</p>
 </p>
 
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/chatwoot/chatwoot/tree/master" alt="Deploy to Heroku">
+  <a href="https://heroku.com/deploy?template=https://github.com/birparsek/all-in-live-chat-engagement/tree/master" alt="Deploy to Heroku">
      <img width="150" alt="Deploy" src="https://www.herokucdn.com/deploy/button.svg"/>
   </a>
   <a href="https://marketplace.digitalocean.com/apps/chatwoot?refcode=f2238426a2a8" alt="Deploy to DigitalOcean">
